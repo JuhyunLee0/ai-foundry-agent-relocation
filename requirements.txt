@@ -3,3 +3,5 @@ openai
 requests
 azure-ai-projects
 azure-identity
+semantic-kernel
+semantic-kernel[azure]
